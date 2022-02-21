@@ -20,7 +20,7 @@
     "npub:precheck": "fldev ci"
   },
   "dependencies": {
-    "@friends-library/types": "^7.0.0-beta.3",
+    "@friends-library/types": "^7.0.0",
     "client-oauth2": "^4.3.0",
     "node-fetch": "^2.6.0"
   },
